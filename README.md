@@ -15,6 +15,6 @@ This Project doesn't need such a hugh functionality, as it only injects argument
 <ul>
   <li>Apache Commons Logging 1.2, get it here : https://mvnrepository.com/artifact/commons-logging/commons-logging/1.2</li>
   <li>Apache PDFBox 2.0.3, get it here : https://mvnrepository.com/artifact/org.apache.pdfbox/pdfbox/2.0.3</li>
-  <li>Apache PDFBox FontBox 2.0.3, get it here :</li>
+  <li>Apache PDFBox FontBox 2.0.3, get it here : https://mvnrepository.com/artifact/org.apache.pdfbox/pdfbox/2.0.3</li>
   <li>MedysFileTools, get it here: https://github.com/emisan/MedysFileTools</li>
 </ul>
