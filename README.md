@@ -7,7 +7,7 @@ Support for XFA is not provided at the moment !
 
 Still there are newer releases of PDFBox-Team @ Apache which have enough bugfixes and more support for multi-language and other cool things (i18n support, UTF-16 support , text-transformation, and so on and further more....)
 
-And thanks to <b>Tillman Hausherr and the crew</b> for such great support for the news-group (be part of it, and get the latest hints!)
+And thanks to <b>Tilman Hausherr and the crew</b> for such great support for the news-group (be part of it, and get the latest hints!)
 
 This Project doesn't need such a hugh functionality, as it only injects argument contents to the named components inside the PDF document.
 
